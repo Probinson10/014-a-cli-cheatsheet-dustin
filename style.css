@@ -7,9 +7,10 @@ body {
 }
 
 h1 {
-    background-color: yellow;
+    background-color: white;
 }
 
-p {
-    background-color: rgb(#0000FF);
+li {
+    background-color: blue;
 }
+
